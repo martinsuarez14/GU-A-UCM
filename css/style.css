@@ -1,0 +1,67 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+.navbar-brand{
+    font-family: 'Bebas Neue', cursive;
+}
+
+body {
+    background-color: black;
+}
+
+.estreno-carr {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: row;
+}
+.proximo-estreno{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+.proximo-estreno img {
+    width: 300px;
+}
+#carouselExampleDark{
+    width: 800px;
+    margin-right: 0;
+}
+
+.listado {
+    margin: 30px;
+    color: white;
+}
+
+.contenido {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.imagen {
+    font-size: 15px;
+    border: 2px solid white;
+}
+.datos {
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    width: 18em;
+    font-size: 18px;
+}
+hr {
+    background-color: white;
+    height: 2px;
+    color: white;
+}
+.contenido img {
+    width: 20em;
+}
+iframe {
+    width: 40em;
+    height: 28em;
+    border: 1px solid #ED1D24;
+}
