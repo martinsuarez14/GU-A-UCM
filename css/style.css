@@ -30,38 +30,29 @@ body {
     margin-right: 0;
 }
 
-.listado {
-    margin: 30px;
-    color: white;
+.fases {
+    background-image: url(../assets/wakanda.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    width: 100%;
+    height: auto;
 }
 
-.contenido {
-    display: flex;
-    justify-content: space-between;
-
+.cine {
+    font-family: 'Bebas Neue', cursive;
 }
 
-.imagen {
-    font-size: 15px;
-    border: 2px solid white;
+img {
+    transform-style: all 0.10s;
 }
-.datos {
-    display: flex;
-    flex-direction: column;
-    text-align: left;
-    width: 18em;
-    font-size: 18px;
+
+.fase:hover img {
+    -webkit-transform:scale(1.1);transform:scale(1.1);
 }
-hr {
-    background-color: white;
-    height: 2px;
-    color: white;
+
+.fas {
+    overflow: hidden;
 }
-.contenido img {
-    width: 20em;
-}
-iframe {
-    width: 40em;
-    height: 28em;
-    border: 1px solid #ED1D24;
-}
+
+
