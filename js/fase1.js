@@ -23,7 +23,7 @@ let ironMan = new Pelicula(2008, 'Iron Man', 'Jon favreau', '126 minutos', 'Uno'
 agregarPelicula(ironMan, fase1)
 let hulk = new Pelicula(2008, 'El Increible Hulk', 'Louis Leterrier', '112 minutos', 'Uno', '../assets/hulk.jpg', '<iframe  src="https://www.youtube.com/embed/P2TA4kB6EcI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>')
 agregarPelicula(hulk, fase1)
-let ironMan2 = new Pelicula(2010, 'Iron Man 2', 'Jon Favreau', '125 minutos', 'Uno', '../assets/iron-man-2.jpg', '<iframe src="https://www.youtube.com/embed/AiWBoQ2DiD0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>')
+let ironMan2 = new Pelicula(2010, 'Iron Man 2', 'Jon Favreau', '125 minutos', 'Uno', '../assets/iron-man-2.jpg', '<iframe  src="https://www.youtube.com/embed/ixn7vi21w7s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>')
 agregarPelicula(ironMan2, fase1)
 let thor = new Pelicula(2011, 'Thor', 'Kenneth Branagh, Alan Taylor, Taika Waititi', '114 minutos', 'Uno', '../assets/thor.jpg', '<iframe  src="https://www.youtube.com/embed/n65Lkc-5zjQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>')
 agregarPelicula(thor, fase1)

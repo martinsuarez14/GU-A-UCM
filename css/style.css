@@ -44,10 +44,14 @@ body {
 }
 
 img {
-    transform-style: all 0.10s;
+    transition: all 0.3s;
 }
 
-.fase:hover img {
+.fase {
+    transition: all 0.3s;
+}
+
+.fase:hover {
     -webkit-transform:scale(1.1);transform:scale(1.1);
 }
 
@@ -55,4 +59,25 @@ img {
     overflow: hidden;
 }
 
+.boton {
+    transition: all 0.3s;
+}
 
+.boton:hover {
+    transform: scale(1.4);
+    box-shadow: 0px 1px 2px 3px rgb(199, 214, 112);
+}
+
+
+@media only screen and (max-width: 800px) {
+
+    .estreno-carr {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .fase-1-2 {
+        align-items: center;
+        justify-content: center;
+    }
+}
