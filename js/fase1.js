@@ -27,7 +27,7 @@ let ironMan2 = new Pelicula(2010, 'Iron Man 2', 'Jon Favreau', '125 minutos', 'U
 agregarPelicula(ironMan2, fase1)
 let thor = new Pelicula(2011, 'Thor', 'Kenneth Branagh, Alan Taylor, Taika Waititi', '114 minutos', 'Uno', '../assets/thor.jpg', '<iframe  src="https://www.youtube.com/embed/n65Lkc-5zjQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>')
 agregarPelicula(thor, fase1)
-let capitanAmerica = new Pelicula(2011, 'Capitán América: El Primer Vengador', 'Joe Johnston', '124 minutos', 'Uno', '../assets/cap-america.jpg', '<iframe  src="https://www.youtube.com/embed/JnL7sjclx8k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>', )
+let capitanAmerica = new Pelicula(2011, 'Capitán América: El Primer Vengador', 'Joe Johnston', '124 minutos', 'Uno', '../assets/capi1.jpg', '<iframe  src="https://www.youtube.com/embed/JnL7sjclx8k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>', )
 agregarPelicula(capitanAmerica, fase1)
 let losVengadores = new Pelicula(2012, 'Los Vengadores', 'Joe Johnston', '143 minutos', 'Uno', '../assets/vengadores.jpg', '<iframe  src="https://www.youtube.com/embed/4mwtDHovB3w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>', )
 agregarPelicula(losVengadores, fase1)

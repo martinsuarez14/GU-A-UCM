@@ -43,6 +43,7 @@ body {
 .imagen {
     font-size: 15px;
     border: 2px solid white;
+    width: 21em;
 }
 .datos {
     display: flex;
@@ -57,7 +58,7 @@ hr {
     color: white;
 }
 .contenido img {
-    width: 20em;
+    width: 100%;
 }
 iframe {
     width: 40em;

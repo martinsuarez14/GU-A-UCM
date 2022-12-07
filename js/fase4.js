@@ -19,7 +19,7 @@ function agregarPelicula(pelicula, fase) {
     //peliculasOrdenadasPorEstreno.push(pelicula)
 }
 
-let wandaVision = new Pelicula(2021, 'WandaVisión', 'Matt Shakman', '9 episodios', 'Cuatro', '../assets/wandaVision.jpg', '<iframe  src="https://www.youtube.com/embed/UuhqbcMNrME" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>', )
+let wandaVision = new Pelicula(2021, 'WandaVisión', 'Matt Shakman', '9 episodios', 'Cuatro', '../assets/wv.jpg', '<iframe  src="https://www.youtube.com/embed/UuhqbcMNrME" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>', )
 agregarPelicula(wandaVision, fase4)
 let falconYsoldadoInvierno = new Pelicula(2021, 'Falcon y el Soldado de Invierno', '6 episodios', 'Kari Skogland', 'Cuatro', '../assets/falcon.jpg', '<iframe  src="https://www.youtube.com/embed/nxyckmizMUo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>', )
 agregarPelicula(falconYsoldadoInvierno, fase4)
@@ -31,11 +31,11 @@ let shangChi = new Pelicula(2021, 'Shang-Chi y la Leyenda de los Diez Anillos', 
 agregarPelicula(shangChi, fase4)
 let eternals = new Pelicula(2021, 'Eternals', 'Chloé Zhao', '157 minutos', 'Cuatro', '../assets/eternals.jpg', '<iframe  src="https://www.youtube.com/embed/MKWXuj3ZYf0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>', )
 agregarPelicula(eternals, fase4)
-let ojoDeHalcon = new Pelicula(2021, 'Ojo de Halcón', 'Thomas y Bert & Bertie', '6 episodios', 'Cuatro', '../assets/ojo.jpg', '<iframe  src="https://www.youtube.com/embed/eLb5trpCt9M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>', )
+let ojoDeHalcon = new Pelicula(2021, 'Ojo de Halcón', 'Thomas y Bert & Bertie', '6 episodios', 'Cuatro', '../assets/eye.jpg', '<iframe  src="https://www.youtube.com/embed/eLb5trpCt9M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>', )
 agregarPelicula(ojoDeHalcon, fase4)
 let spiderMan3 = new Pelicula(2021, 'Spider-Man: No Way Home', 'Jon Watts', '148 minutos', 'Cuatro', '../assets/spiderman3.jpg', '<iframe  src="https://www.youtube.com/embed/z70zo9gQUKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>', )
 agregarPelicula(spiderMan3, fase4)
-let moonKnight = new Pelicula(2022, 'Moon Knight', 'Christian Slater, Justin Benson, Aaron Moorhead', '6 episodios', 'Cuatro', '../assets/moon.jpg', '<iframe  src="https://www.youtube.com/embed/0STDZqXCTxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>', )
+let moonKnight = new Pelicula(2022, 'Moon Knight', 'Christian Slater, Justin Benson, Aaron Moorhead', '6 episodios', 'Cuatro', '../assets/mon.jpg', '<iframe  src="https://www.youtube.com/embed/0STDZqXCTxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>', )
 agregarPelicula(moonKnight, fase4)
 let doctorStrange2 = new Pelicula(2022, 'Doctor Strange en el Multiverso de la Locura', 'Sam Raimi', '126 minutos', 'Cuatro', '../assets/strange2.jpg', '<iframe  src="https://www.youtube.com/embed/cFHjZfy50Kk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>', )
 agregarPelicula(doctorStrange2, fase4)
